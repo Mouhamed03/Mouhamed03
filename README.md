@@ -65,7 +65,7 @@ Diplômé de l’Institut Supérieur de Management (ISM), je suis passionné par
 ## 📂 Portfolio & Projets
 
 - [Portfolio principal](https://mouhamedndiaye.ct.ws)
-- Tous mes projets sont consultables dans mon [Portfolio GitHub](https://github.com/Mouhamed03/Portfolio)
+- Tous mes projets sont consultables dans mon [Portfolio Web]
 
 ---
 
